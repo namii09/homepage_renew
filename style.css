@@ -31,7 +31,7 @@ h1.logo_title {
 }
 
 h1.logo_title img {
-  width: 80px;
+  width: 70px;
 }
 
 #gnb {
@@ -102,7 +102,7 @@ h1.logo_title img {
   padding: 5px;
 }
 #gnb .depth2 > li > a {
-  color: black;
+  color: #000;
 }
 
 /* 1단계 메뉴 hover시 밑줄 효과 */
