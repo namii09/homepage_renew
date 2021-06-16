@@ -95,6 +95,7 @@ h1.logo_title img {
 */
 #gnb > ul > li:hover > .depth2{
   display: block;
+  background-color: white;
 }
 
 #gnb .depth2 > li {
