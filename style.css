@@ -119,7 +119,7 @@ h1.logo_title img {
 /* 2단계 메뉴 hover시 텍스트 하이라이트 효과 */
 #gnb .depth2 > li > a:hover {
   /* 글자색: 흰색, 불투명도 75%(0.75) */
-  color: rgba(255,255,255,0.75);
+  color: rgba(0,0,0,0.75);
 }
 
 
